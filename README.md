@@ -61,6 +61,7 @@ Clone this repo to your desktop and run npm install to install all the dependenc
 
 ## Repository Structure
 
+```
 📦nodejs-express-template
  ┣ 📂src
  ┃ ┗ 📜index.js
@@ -71,6 +72,7 @@ Clone this repo to your desktop and run npm install to install all the dependenc
  ┣ 📜README.md
  ┣ 📜nodemon.json
  ┗ 📜package.json
+ ```
 
 ## License
 This project is licensed under the terms of the **MIT** license.
