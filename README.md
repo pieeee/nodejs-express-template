@@ -3,7 +3,7 @@ Node.js Express Template
 [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat) ![Social](https://img.shields.io/discord/817046198547513425)
 ![GitHub Repo stars](https://img.shields.io/github/stars/pieeee/nodejs-express-template?style=social)
 
-This is a node.js Express.js template for any backend node-express backend application.
+This is a node.js Express.js template for any backend node-express application.
 
 ## Setup
 Clone this repo to your desktop and run npm install to install all the dependencies.
